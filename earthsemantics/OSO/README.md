@@ -31,11 +31,11 @@ Supported serializations
 - TriG
 
 Examples
-https://w3id.org/earthsemantics/OSO
-https://w3id.org/earthsemantics/OSO/1.0.5
-https://w3id.org/earthsemantics/OSO.jsonld
-https://w3id.org/earthsemantics/OSO.nt
-https://w3id.org/earthsemantics/OSO/sparql
+[https://w3id.org/earthsemantics/OSO](https://w3id.org/earthsemantics/OSO)
+[https://w3id.org/earthsemantics/OSO/1.0.5](https://w3id.org/earthsemantics/OSO/1.0.5)
+[https://w3id.org/earthsemantics/OSO.jsonld](https://w3id.org/earthsemantics/OSO.jsonld)
+[https://w3id.org/earthsemantics/OSO.nt](https://w3id.org/earthsemantics/OSO.nt)
+[https://w3id.org/earthsemantics/OSO/sparql](https://virtuoso.ifremer.fr/oso/sparql)
 
 Target project
 https://github.com/emso-eric/oso-ontology
